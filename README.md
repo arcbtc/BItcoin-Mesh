@@ -12,7 +12,7 @@ Network bandwidth will be separated into two layers, 1/3 broadcast, 2/3 unicast.
 
 ![transport layers](https://i.imgur.com/jxwNDRx.png)
 
-Initially this project will focus on developing software for the ESP32 microcontroller, which is both cheap, reliable and easily auditable. Esspressif, the company that develops the controller has recently relased a keychain for developing mesh [solutions](https://www.espressif.com/en/products/software/esp-mesh/overview). 
+Initially this project will focus on developing software for the ESP32 microcontroller, which is both cheap, reliable and easily auditable. Esspressif, the company that develops the microcontroller, has recently relased a keychain for developing mesh [solutions](https://www.espressif.com/en/products/software/esp-mesh/overview). 
 
 Benefits to using the ESP32 include:
 
