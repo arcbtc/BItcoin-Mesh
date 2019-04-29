@@ -10,7 +10,16 @@ The goal of bitcoin-mesh is to create an ultra-low cost, publically accessible, 
 
 Network bandwidth will be separated into two layers, 1/3 broadcast, 2/3 unicast. The broadcast layer will transmit current bitcoin transaction data and is free to access, the unicast layer will transport transactions to the bitcoin network. In order to avoid spam, use of the unicast layer will incur a small scalable fee that will be distributed randomly to a point of contact, ie someone running a satellite connection/full-node.
 
-![bitcoin mesh network](https://i.imgur.com/jxwNDRx.png)
+![transport layers](https://i.imgur.com/jxwNDRx.png)
 
+Initially this project will focus on developing software for the ESP32 microcontroller, which is both cheap, reliable and easily auditable. Esspressif, the company that develops the controller has recently relased a keychain for developing mesh [solutions](https://www.espressif.com/en/products/software/esp-mesh/overview). 
 
+Benefits to using the ESP32 include:
+
+*Supports Wifi and BLE
+*Low cost - $2-$6
+*200 meter range (although with additional hardware this can be exteded)
+*10Mbps data transfer rate
+
+![ESP32 Espressif](https://i.imgur.com/B64eBE7.jpg)
 
