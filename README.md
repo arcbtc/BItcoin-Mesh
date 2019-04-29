@@ -16,10 +16,10 @@ Initially this project will focus on developing software for the ESP32 microcont
 
 Benefits to using the ESP32 include:
 
-*Supports Wifi and BLE
-*Low cost - $2-$6
-*200 meter range (although with additional hardware this can be exteded)
-*10Mbps data transfer rate
+...*Supports Wifi and BLE
+...*Low cost - $2-$6
+...*200 meter range (although with additional hardware this can be exteded)
+...*10Mbps data transfer rate
 
 ![ESP32 Espressif](https://i.imgur.com/B64eBE7.jpg)
 
