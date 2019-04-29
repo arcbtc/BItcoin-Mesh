@@ -18,7 +18,7 @@ Benefits to using the ESP32 include:
 
 * Supports Wifi and BLE
 * Low cost - $2-$6
-* 200 meter range (although with additional hardware this can be exteded)
+* 200-meter range (although with additional hardware this can be extended to 1-2k)
 * 10Mbps data transfer rate
 
 ![ESP32 Espressif](https://i.imgur.com/B64eBE7.jpg)
