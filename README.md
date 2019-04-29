@@ -22,7 +22,3 @@ Benefits to using the ESP32 include:
 Network bandwidth will be separated into two layers, 1/3 broadcast, 2/3 unicast. The broadcast layer will transmit current bitcoin transaction data and is free to access, the unicast layer will transport transactions to the bitcoin network. In order to avoid spam, use of the unicast layer will incur a small scalable fee that will be distributed to the a point of contact used, ie someone running a satellite connection/full-node.
 
 ![transport layers](https://i.imgur.com/jxwNDRx.png)
-
-# BTCIOT - bitcoin-mesh diaries, part 1
-
-[![BTCIOT](https://i.imgur.com/MFQwEzz.jpg)](https://www.youtube.com/watch?v=3DN4L_vdwA4)
