@@ -1,5 +1,5 @@
 ![bitcoin mesh network](https://i.imgur.com/p1BPto4.png)
-# BItcoin Mesh Network
+# The bitcoin-mesh Project
 A cheap to join mesh network to transmit and recieve bitcoin transactions.
 
 The cost of bluetooth/wifi-embedded microcontrollers and the amount of power they consume has dramatically dropped, which has made it entirely plausable to embedded them into pre-existing infrastructure, ie streets lilghts. 
