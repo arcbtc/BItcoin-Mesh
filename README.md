@@ -23,4 +23,6 @@ Network bandwidth will be separated into two layers, 1/3 broadcast, 2/3 unicast.
 
 ![transport layers](https://i.imgur.com/jxwNDRx.png)
 
+# BTCIOT - bitcoin-mesh diaries, part 1
+
 [![BTCIOT](https://i.imgur.com/MFQwEzz.jpg)](https://www.youtube.com/watch?v=3DN4L_vdwA4)
