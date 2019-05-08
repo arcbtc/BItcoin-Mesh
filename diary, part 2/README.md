@@ -1,3 +1,7 @@
+# BTCIOT - bitcoin mesh diary, part 1
+
+[![BTCIOT](https://i.imgur.com/MFQwEzz.jpg)](https://www.youtube.com/watch?v=3DN4L_vdwA4)
+
 In the last diary entry we focused on building a very simple mesh network with broadcast and unicast capabilities. https://www.youtube.com/watch?v=3DN4L_vdwA4
 
 In this entry I experiment with range, and try and broadcast data across 1.2km of the bitcoin mesh network.
