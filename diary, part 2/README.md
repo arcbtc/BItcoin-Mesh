@@ -1,6 +1,6 @@
 # BTCIOT - bitcoin mesh diary, part 2
 
-[![BTCIOT](https://i.imgur.com/MFQwEzz.jpg)](https://www.youtube.com/watch?v=3DN4L_vdwA4)
+[![BTCIOT](https://i.imgur.com/Fil2Wfd.jpg)](https://www.youtube.com/watch?v=lTg8DwNSbWU)
 
 In the last diary entry we focused on building a very simple mesh network with broadcast and unicast capabilities. https://www.youtube.com/watch?v=3DN4L_vdwA4
 
