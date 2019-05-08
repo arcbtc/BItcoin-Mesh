@@ -1,4 +1,4 @@
-# BTCIOT - bitcoin mesh diary, part 1
+# BTCIOT - bitcoin mesh diary, part 2
 
 [![BTCIOT](https://i.imgur.com/MFQwEzz.jpg)](https://www.youtube.com/watch?v=3DN4L_vdwA4)
 
