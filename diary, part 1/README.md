@@ -10,10 +10,15 @@ The eventual goal is to be able to blanket my local village in bitcoin transacti
 Contributors are very welcome!
 
 Espressif resources 
-https://github.com/espressif/esp-mdf
+
+https://github.com/espressif/esp-mdf 
+
 https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html
+
 https://github.com/espressif/esp-mdf/tree/master/examples/function_demo/mwifi
 
 
+
 TCP server testing software
+
 https://packetsender.com/
